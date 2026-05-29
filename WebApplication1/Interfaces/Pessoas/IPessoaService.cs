@@ -1,6 +1,6 @@
-﻿using WebApplication1.DTOs;
+﻿using WebApplication1.DTOs.Pessoa;
 
-namespace WebApplication1.Interfaces
+namespace WebApplication1.Interfaces.Pessoas
 {
     public interface IPessoaService
     {

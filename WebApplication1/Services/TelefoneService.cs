@@ -1,6 +1,6 @@
-﻿using WebApplication1.DTOs;
+﻿using WebApplication1.DTOs.Telefone;
 using WebApplication1.Entities;
-using WebApplication1.Interfaces;
+using WebApplication1.Interfaces.Telefones;
 
 namespace WebApplication1.Services
 {

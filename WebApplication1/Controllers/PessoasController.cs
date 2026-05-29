@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using WebApplication1.DTOs;
-using WebApplication1.Interfaces;
+using WebApplication1.DTOs.Pessoa;
+using WebApplication1.Interfaces.Pessoas;
 
 namespace WebApplication1.Controllers
 {

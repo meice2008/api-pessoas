@@ -1,6 +1,6 @@
 ﻿using WebApplication1.Entities;
 
-namespace WebApplication1.Interfaces
+namespace WebApplication1.Interfaces.Telefones
 {
     public interface ITelefoneRepository
     {

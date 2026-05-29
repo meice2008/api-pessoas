@@ -1,6 +1,6 @@
-﻿using WebApplication1.DTOs;
+﻿using WebApplication1.DTOs.Telefone;
 
-namespace WebApplication1.Interfaces
+namespace WebApplication1.Interfaces.Telefones
 {
     public interface ITelefoneService
     {

@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using WebApplication1.DTOs;
-using WebApplication1.Interfaces;
+using WebApplication1.DTOs.Telefone;
+using WebApplication1.Interfaces.Telefones;
 
 namespace WebApplication1.Controllers
 {
@@ -47,9 +47,7 @@ namespace WebApplication1.Controllers
 
         [HttpPut()]
         [Route("atualizar/{id}")]
-        public async Task<IActionResult> Atualizar(
-            int id,
-            [FromBody] TelefoneRequestDto dto)
+        public async Task<IActionResult> Atualizar(int id, [FromBody] TelefoneRequestDto dto)
         {
             var atualizado = await _service.AtualizarAsync(id, dto);
 

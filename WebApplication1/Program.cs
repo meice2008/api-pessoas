@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using WebApplication1.Data;
-using WebApplication1.Interfaces;
+using WebApplication1.Interfaces.Pessoas;
+using WebApplication1.Interfaces.Telefones;
 using WebApplication1.Repositories;
 using WebApplication1.Services;
 

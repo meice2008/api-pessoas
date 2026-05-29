@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using WebApplication1.Data;
 using WebApplication1.Entities;
-using WebApplication1.Interfaces;
+using WebApplication1.Interfaces.Telefones;
 
 namespace WebApplication1.Repositories
 {
