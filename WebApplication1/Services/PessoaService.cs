@@ -21,7 +21,16 @@ namespace WebApplication1.Services
             {
                 Id = p.Id,
                 Nome = p.Nome,
-                Email = p.Email
+                Email = p.Email,
+
+                Telefones = p.Telefones?
+            .Select(t => new TelefoneResponseDto
+            {
+                Id = t.Id,
+                Numero = t.Numero,
+                PessoaId = t.PessoaId
+            })
+            .ToList() ?? new List<TelefoneResponseDto>()
             }).ToList();
         }
 
@@ -36,7 +45,16 @@ namespace WebApplication1.Services
             {
                 Id = pessoa.Id,
                 Nome = pessoa.Nome,
-                Email = pessoa.Email
+                Email = pessoa.Email,
+
+                Telefones = pessoa.Telefones?
+                    .Select(t => new TelefoneResponseDto
+                    {
+                        Id = t.Id,
+                        Numero = t.Numero,
+                        PessoaId = t.PessoaId
+                    })
+                    .ToList() ?? new List<TelefoneResponseDto>()
             };
         }
 
