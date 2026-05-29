@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\meice\\source\\repos\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1275F3C0-2173-4DEB-B8F8-BD83C95095DB}|WebApplication1.csproj|c:\\users\\meice\\source\\repos\\webapplication1\\controllers\\pessoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1275F3C0-2173-4DEB-B8F8-BD83C95095DB}|WebApplication1.csproj|solutionrelative:controllers\\pessoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1275F3C0-2173-4DEB-B8F8-BD83C95095DB}|WebApplication1.csproj|c:\\users\\meice\\source\\repos\\webapplication1\\dtos\\pessoarequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1275F3C0-2173-4DEB-B8F8-BD83C95095DB}|WebApplication1.csproj|solutionrelative:dtos\\pessoarequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1275F3C0-2173-4DEB-B8F8-BD83C95095DB}|WebApplication1.csproj|c:\\users\\meice\\source\\repos\\webapplication1\\interfaces\\ipessoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1275F3C0-2173-4DEB-B8F8-BD83C95095DB}|WebApplication1.csproj|solutionrelative:interfaces\\ipessoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1275F3C0-2173-4DEB-B8F8-BD83C95095DB}|WebApplication1.csproj|c:\\users\\meice\\source\\repos\\webapplication1\\services\\pessoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1275F3C0-2173-4DEB-B8F8-BD83C95095DB}|WebApplication1.csproj|solutionrelative:services\\pessoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1275F3C0-2173-4DEB-B8F8-BD83C95095DB}|WebApplication1.csproj|c:\\users\\meice\\source\\repos\\webapplication1\\repositories\\pessoarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1275F3C0-2173-4DEB-B8F8-BD83C95095DB}|WebApplication1.csproj|solutionrelative:repositories\\pessoarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1275F3C0-2173-4DEB-B8F8-BD83C95095DB}|WebApplication1.csproj|c:\\users\\meice\\source\\repos\\webapplication1\\dtos\\pessoaresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1275F3C0-2173-4DEB-B8F8-BD83C95095DB}|WebApplication1.csproj|solutionrelative:dtos\\pessoaresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1275F3C0-2173-4DEB-B8F8-BD83C95095DB}|WebApplication1.csproj|c:\\users\\meice\\source\\repos\\webapplication1\\interfaces\\ipessoarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1275F3C0-2173-4DEB-B8F8-BD83C95095DB}|WebApplication1.csproj|solutionrelative:interfaces\\ipessoarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1275F3C0-2173-4DEB-B8F8-BD83C95095DB}|WebApplication1.csproj|c:\\users\\meice\\source\\repos\\webapplication1\\entities\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1275F3C0-2173-4DEB-B8F8-BD83C95095DB}|WebApplication1.csproj|solutionrelative:entities\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1275F3C0-2173-4DEB-B8F8-BD83C95095DB}|WebApplication1.csproj|c:\\users\\meice\\source\\repos\\webapplication1\\entities\\telefone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1275F3C0-2173-4DEB-B8F8-BD83C95095DB}|WebApplication1.csproj|solutionrelative:entities\\telefone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PessoasController.cs",
+              "DocumentMoniker": "C:\\Users\\meice\\source\\repos\\WebApplication1\\Controllers\\PessoasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PessoasController.cs",
+              "ToolTip": "C:\\Users\\meice\\source\\repos\\WebApplication1\\Controllers\\PessoasController.cs",
+              "RelativeToolTip": "Controllers\\PessoasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T16:37:14.46Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPessoaService.cs",
+              "DocumentMoniker": "C:\\Users\\meice\\source\\repos\\WebApplication1\\Interfaces\\IPessoaService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IPessoaService.cs",
+              "ToolTip": "C:\\Users\\meice\\source\\repos\\WebApplication1\\Interfaces\\IPessoaService.cs",
+              "RelativeToolTip": "Interfaces\\IPessoaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T20:49:55.014Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PessoaService.cs",
+              "DocumentMoniker": "C:\\Users\\meice\\source\\repos\\WebApplication1\\Services\\PessoaService.cs",
+              "RelativeDocumentMoniker": "Services\\PessoaService.cs",
+              "ToolTip": "C:\\Users\\meice\\source\\repos\\WebApplication1\\Services\\PessoaService.cs",
+              "RelativeToolTip": "Services\\PessoaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T16:34:53.588Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPessoaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\meice\\source\\repos\\WebApplication1\\Interfaces\\IPessoaRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IPessoaRepository.cs",
+              "ToolTip": "C:\\Users\\meice\\source\\repos\\WebApplication1\\Interfaces\\IPessoaRepository.cs",
+              "RelativeToolTip": "Interfaces\\IPessoaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T20:37:31.045Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PessoaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\meice\\source\\repos\\WebApplication1\\Repositories\\PessoaRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PessoaRepository.cs",
+              "ToolTip": "C:\\Users\\meice\\source\\repos\\WebApplication1\\Repositories\\PessoaRepository.cs",
+              "RelativeToolTip": "Repositories\\PessoaRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T16:31:44.615Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PessoaRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\meice\\source\\repos\\WebApplication1\\DTOs\\PessoaRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\PessoaRequestDto.cs",
+              "ToolTip": "C:\\Users\\meice\\source\\repos\\WebApplication1\\DTOs\\PessoaRequestDto.cs",
+              "RelativeToolTip": "DTOs\\PessoaRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T16:39:45.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PessoaResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\meice\\source\\repos\\WebApplication1\\DTOs\\PessoaResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\PessoaResponseDto.cs",
+              "ToolTip": "C:\\Users\\meice\\source\\repos\\WebApplication1\\DTOs\\PessoaResponseDto.cs",
+              "RelativeToolTip": "DTOs\\PessoaResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T16:38:44.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\meice\\source\\repos\\WebApplication1\\Entities\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Entities\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\meice\\source\\repos\\WebApplication1\\Entities\\Pessoa.cs",
+              "RelativeToolTip": "Entities\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T20:59:28.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Telefone.cs",
+              "DocumentMoniker": "C:\\Users\\meice\\source\\repos\\WebApplication1\\Entities\\Telefone.cs",
+              "RelativeDocumentMoniker": "Entities\\Telefone.cs",
+              "ToolTip": "C:\\Users\\meice\\source\\repos\\WebApplication1\\Entities\\Telefone.cs",
+              "RelativeToolTip": "Entities\\Telefone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T21:03:11.6Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
