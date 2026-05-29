@@ -25,6 +25,9 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 builder.Services.AddScoped<IPessoaRepository, PessoaRepository>();
 builder.Services.AddScoped<IPessoaService, PessoaService>();
 
+builder.Services.AddScoped<ITelefoneRepository, TelefoneRepository>();
+builder.Services.AddScoped<ITelefoneService, TelefoneService>();
+
 var app = builder.Build();
 
 if (app.Environment.IsDevelopment())
